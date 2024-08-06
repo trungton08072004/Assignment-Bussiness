@@ -1,0 +1,103 @@
+MarketTrendID,ProductGroupID,TrendDate,TrendDescription,TrendValue,MarketRegion,CompetitorAnalysis,Seasonality,CustomerSentiment,EconomicIndicators,ForecastedDemand
+1,1,2023-01-15,"Increase in demand for lightweight laptops",0.85,North America,Positive,Winter,Positive,Stable,1.2
+2,2,2023-02-20,"Growing popularity of 5G smartphones",0.90,Europe,Strong,Spring,Very Positive,Improving,1.5
+3,3,2023-03-10,"Rising interest in tablets for e-learning",0.75,Asia,Moderate,Summer,Positive,Stable,1.1
+4,4,2023-04-05,"Increasing adoption of smartwatches for health tracking",0.80,North America,Strong,Year-Round,Very Positive,Growing,1.3
+5,5,2023-05-18,"High demand for noise-cancelling headphones",0.95,Europe,Very Strong,Winter,Very Positive,Improving,1.6
+6,6,2023-06-25,"Steady sales of ergonomic computer accessories",0.65,Asia,Moderate,Year-Round,Positive,Stable,1.0
+7,7,2023-07-12,"Growing need for high-capacity storage devices",0.70,North America,Positive,Year-Round,Positive,Growing,1.1
+8,8,2023-08-03,"Increase in home office printer purchases",0.80,Europe,Strong,Year-Round,Positive,Stable,1.2
+9,9,2023-09-19,"Rising sales of portable chargers",0.85,Asia,Strong,Year-Round,Very Positive,Growing,1.3
+10,10,2023-10-22,"Demand for high-speed USB drives continues to grow",0.75,North America,Positive,Year-Round,Positive,Stable,1.1
+11,11,2023-11-15,"Increase in sales of wireless speakers",0.90,Europe,Very Strong,Summer,Very Positive,Improving,1.4
+12,12,2023-12-10,"Rising interest in high-resolution monitors",0.80,Asia,Strong,Year-Round,Very Positive,Growing,1.2
+13,13,2024-01-05,"Steady growth in networking equipment sales",0.70,North America,Positive,Year-Round,Positive,Stable,1.1
+14,14,2024-02-18,"Increasing demand for smart home devices",0.85,Europe,Strong,Year-Round,Very Positive,Growing,1.3
+15,15,2024-03-20,"Rise in sales of home security systems",0.80,Asia,Moderate,Year-Round,Positive,Stable,1.2
+16,16,2024-04-25,"Growing popularity of next-gen gaming consoles",0.95,North America,Very Strong,Winter,Very Positive,Improving,1.5
+17,17,2024-05-15,"Increased interest in health and fitness devices",0.85,Europe,Strong,Spring,Very Positive,Growing,1.3
+18,18,2024-06-30,"High demand for wireless earbuds",0.90,Asia,Very Strong,Year-Round,Very Positive,Improving,1.4
+19,19,2024-07-22,"Steady growth in smart home appliances",0.80,North America,Positive,Year-Round,Positive,Stable,1.2
+20,20,2024-08-10,"Rising interest in high-quality camera equipment",0.75,Europe,Strong,Summer,Positive,Stable,1.1
+21,21,2024-09-05,"Demand for wireless mechanical keyboards on the rise",0.85,North America,Positive,Fall,Very Positive,Growing,1.3
+22,22,2024-10-12,"Increasing popularity of voice-controlled home assistants",0.90,Europe,Strong,Year-Round,Positive,Stable,1.2
+23,23,2024-11-15,"Rapid growth in virtual reality gaming headset sales",0.80,Asia,Very Strong,Winter,Very Positive,Improving,1.4
+24,24,2024-12-20,"Surge in consumer interest for advanced drone technology",0.95,North America,Very Strong,Year-Round,Very Positive,Growing,1.6
+25,25,2025-01-25,"High demand for fitness trackers with advanced health features",0.85,Europe,Strong,Winter,Positive,Stable,1.2
+26,26,2025-02-18,"Increasing preference for portable and compact projectors",0.80,Asia,Moderate,Year-Round,Positive,Improving,1.1
+27,27,2025-03-10,"Steady growth in sales of portable external hard drives",0.75,North America,Moderate,Year-Round,Positive,Growing,1.3
+28,28,2025-04-05,"Growing need for enhanced home and office security systems",0.90,Europe,Strong,Spring,Very Positive,Stable,1.4
+29,29,2025-05-22,"Rising demand for print supplies for home and office use",0.85,Asia,Strong,Year-Round,Positive,Growing,1.2
+30,30,2025-06-12,"Increasing sales of power banks for mobile devices",0.80,North America,Strong,Year-Round,Positive,Improving,1.3
+31,31,2025-07-17,"High demand for high-speed wireless routers for internet connectivity",0.95,Europe,Very Strong,Summer,Very Positive,Growing,1.5
+32,32,2025-08-20,"Growing popularity of energy-saving smart thermostats",0.85,Asia,Positive,Year-Round,Positive,Stable,1.3
+33,33,2025-09-15,"Rising interest in gaming keyboards with advanced features",0.90,North America,Very Strong,Year-Round,Very Positive,Improving,1.4
+34,34,2025-10-30,"Increasing demand for wireless earphones with superior sound quality",0.80,Europe,Strong,Winter,Positive,Growing,1.2
+35,35,2025-11-18,"Steady growth in sales of high-quality home theater systems",0.75,Asia,Moderate,Year-Round,Positive,Stable,1.1
+36,36,2025-12-05,"Surge in the adoption of smart locks for enhanced home security",0.95,North America,Very Strong,Year-Round,Very Positive,Growing,1.5
+37,37,2026-01-10,"Increasing demand for portable Bluetooth speakers",0.85,Europe,Positive,Winter,Positive,Stable,1.3
+38,38,2026-02-22,"Rapid growth in sales of electronic gadgets for cars",0.90,Asia,Strong,Year-Round,Very Positive,Improving,1.4
+39,39,2026-03-15,"Growing popularity of smartwatches designed for kids",0.80,North America,Strong,Year-Round,Very Positive,Growing,1.3
+40,40,2026-04-28,"Steady growth in sales of home office equipment",0.75,Europe,Moderate,Year-Round,Positive,Stable,1.1
+41,25,2026-05-08,"Increasing demand for smart bathroom fixtures",0.85,"Asia",Moderate,Year-Round,Positive,Growing,1.2
+42,26,2026-06-15,"Rising interest in portable Bluetooth speakers",0.80,"North America",Positive,Summer,Positive,Stable,1.1
+43,27,2026-07-20,"Growing popularity of wireless home audio systems",0.90,"Europe",Strong,Year-Round,Very Positive,Improving,1.3
+44,28,2026-08-12,"Steady growth in sales of smart refrigerators",0.75,"Asia",Positive,Year-Round,Positive,Growing,1.2
+45,29,2026-09-05,"Increasing demand for smart home lighting solutions",0.85,"North America",Very Strong,Year-Round,Very Positive,Growing,1.4
+46,30,2026-10-18,"Rising interest in voice-controlled smart assistants",0.90,"Europe",Moderate,Winter,Positive,Stable,1.1
+47,31,2026-11-22,"Growing need for video doorbell systems",0.80,"Asia",Positive,Year-Round,Positive,Stable,1.2
+48,32,2026-12-08,"Increasing adoption of smart water purifiers",0.85,"North America",Strong,Year-Round,Very Positive,Improving,1.3
+49,33,2027-01-15,"Steady growth in sales of smart home security locks",0.75,"Europe",Positive,Winter,Positive,Stable,1.1
+50,34,2027-02-28,"Rising interest in electric toothbrushes with AI technology",0.90,"Asia",Very Strong,Year-Round,Very Positive,Growing,1.5
+51,35,2027-03-10,"High demand for smart air purifiers",0.85,"North America",Positive,Year-Round,Positive,Stable,1.2
+52,36,2027-04-05,"Growing popularity of home automation systems",0.80,"Europe",Moderate,Year-Round,Positive,Stable,1.1
+53,37,2027-05-22,"Increasing demand for smart garden irrigation systems",0.85,"Asia",Strong,Summer,Very Positive,Growing,1.3
+54,38,2027-06-17,"Rising interest in robot vacuum cleaners",0.90,"North America",Positive,Year-Round,Positive,Stable,1.2
+55,39,2027-07-08,"Steady growth in sales of smart washing machines",0.75,"Europe",Very Strong,Year-Round,Very Positive,Improving,1.4
+56,40,2027-08-20,"Increasing demand for smart mirrors",0.85,"Asia",Moderate,Summer,Positive,Growing,1.1
+57,41,2027-09-25,"Growing popularity of smart home weather stations",0.80,"North America",Positive,Winter,Positive,Stable,1.2
+58,42,2027-10-10,"Rising interest in smart exercise equipment",0.90,"Europe",Strong,Year-Round,Very Positive,Improving,1.3
+59,43,2027-11-15,"Increasing demand for smart coffee makers",0.85,"Asia",Positive,Year-Round,Positive,Growing,1.2
+60,44,2027-12-30,"Steady growth in sales of smart pet trackers",0.75,"North America",Moderate,Year-Round,Positive,Stable,1.1
+61,45,2028-01-18,"Increasing demand for smart home energy monitors",0.85,"Europe",Strong,Year-Round,Positive,Growing,1.2
+62,46,2028-02-12,"Rising interest in smart baby monitors",0.80,"Asia",Moderate,Year-Round,Positive,Stable,1.1
+63,47,2028-03-25,"Growing popularity of smart bike locks",0.90,"North America",Strong,Summer,Very Positive,Improving,1.3
+64,48,2028-04-20,"Steady growth in sales of smart home hubs",0.75,"Europe",Positive,Year-Round,Positive,Stable,1.2
+65,49,2028-05-08,"Increasing demand for smart security systems",0.85,"Asia",Very Strong,Year-Round,Very Positive,Growing,1.4
+66,50,2028-06-15,"Rising interest in smart pet toys",0.90,"North America",Moderate,Year-Round,Positive,Stable,1.1
+67,51,2028-07-20,"Growing need for smart garden sensors",0.80,"Europe",Positive,Year-Round,Positive,Stable,1.2
+68,52,2028-08-12,"Increasing adoption of smart bathroom scales",0.85,"Asia",Strong,Winter,Very Positive,Improving,1.3
+69,53,2028-09-05,"Steady growth in sales of smart home water leak detectors",0.75,"North America",Positive,Year-Round,Positive,Stable,1.1
+70,54,2028-10-18,"Rising interest in smart pet doors",0.90,"Europe",Very Strong,Year-Round,Very Positive,Growing,1.5
+71,55,2028-11-22,"High demand for smart window blinds",0.85,"Asia",Positive,Summer,Positive,Stable,1.2
+72,56,2028-12-08,"Growing popularity of smart garden irrigation timers",0.80,"North America",Moderate,Year-Round,Positive,Improving,1.3
+73,57,2029-01-15,"Increasing demand for smart kitchen scales",0.85,"Europe",Positive,Year-Round,Positive,Growing,1.2
+74,58,2029-02-28,"Steady growth in sales of smart home air quality monitors",0.90,"Asia",Strong,Year-Round,Very Positive,Stable,1.1
+75,59,2029-03-10,"Rising interest in smart home surveillance cameras",0.75,"North America",Positive,Year-Round,Positive,Stable,1.2
+76,60,2029-04-05,"Growing popularity of smart garden watering systems",0.80,"Europe",Very Strong,Summer,Very Positive,Growing,1.3
+77,61,2029-05-22,"Increasing demand for smart home voice assistants",0.85,"Asia",Moderate,Year-Round,Positive,Improving,1.1
+78,62,2029-06-17,"Growing interest in smart pet grooming devices",0.90,"North America",Positive,Year-Round,Very Positive,Stable,1.2
+79,63,2029-07-08,"Rising demand for smart home smoke detectors",0.85,"Europe",Strong,Winter,Positive,Stable,1.1
+80,64,2029-08-20,"Steady growth in sales of smart home door locks",0.80,"Asia",Positive,Year-Round,Positive,Growing,1.4
+81,65,2030-01-18,"Increasing demand for smart home air purifiers",0.85,"North America",Moderate,Year-Round,Positive,Growing,1.2
+82,66,2030-02-12,"Rising interest in smart kitchen appliances",0.80,"Europe",Positive,Year-Round,Positive,Stable,1.1
+83,67,2030-03-25,"Growing popularity of smart home security cameras",0.90,"Asia",Strong,Summer,Very Positive,Improving,1.3
+84,68,2030-04-20,"Steady growth in sales of smart thermostats",0.75,"North America",Positive,Year-Round,Positive,Stable,1.2
+85,69,2030-05-08,"Increasing demand for smart home entertainment systems",0.85,"Europe",Very Strong,Year-Round,Very Positive,Growing,1.4
+86,70,2030-06-15,"Rising interest in smart home pet feeders",0.90,"Asia",Moderate,Year-Round,Positive,Stable,1.1
+87,71,2030-07-20,"Growing need for smart kitchen faucets",0.80,"North America",Positive,Year-Round,Positive,Stable,1.2
+88,72,2030-08-12,"Increasing adoption of smart home lighting controls",0.85,"Europe",Strong,Winter,Very Positive,Improving,1.3
+89,73,2030-09-05,"Steady growth in sales of smart home robot cleaners",0.75,"Asia",Positive,Year-Round,Positive,Stable,1.1
+90,74,2030-10-18,"Rising interest in smart home security alarms",0.90,"North America",Very Strong,Year-Round,Very Positive,Growing,1.5
+91,75,2030-11-22,"High demand for smart home surveillance systems",0.85,"Europe",Positive,Summer,Positive,Stable,1.2
+92,76,2030-12-08,"Growing popularity of smart home water heaters",0.80,"Asia",Moderate,Year-Round,Positive,Stable,1.1
+93,77,2031-01-15,"Increasing demand for smart home voice control devices",0.85,"North America",Positive,Year-Round,Positive,Growing,1.2
+94,78,2031-02-28,"Steady growth in sales of smart home doorbells",0.90,"Europe",Strong,Year-Round,Very Positive,Stable,1.3
+95,79,2031-03-10,"Rising interest in smart home lighting solutions",0.75,"Asia",Positive,Year-Round,Positive,Stable,1.2
+96,80,2031-04-05,"Growing popularity of smart home security locks",0.80,"North America",Very Strong,Summer,Very Positive,Growing,1.3
+97,81,2031-05-22,"Increasing demand for smart home energy management systems",0.85,"Europe",Moderate,Year-Round,Positive,Improving,1.1
+98,82,2031-06-17,"Growing interest in smart home pet monitoring devices",0.90,"Asia",Positive,Year-Round,Very Positive,Stable,1.2
+99,83,2031-07-08,"Rising demand for smart home window sensors",0.85,"North America",Strong,Winter,Positive,Stable,1.1
+100,84,2031-08-20,"Steady growth in sales of smart home security systems",0.80,"Europe",Positive,Year-Round,Positive,Growing,1.4
+
+

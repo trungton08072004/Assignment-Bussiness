@@ -1,0 +1,76 @@
+ProductID,ProductName,ProductDescription,ProductPrice,ProductCost,ProductWeight,ProductDimensions,ProductColor,ProductSize,ProductGroupID,StockQuantity
+1,Laptop,"15.6"" HD Laptop with Intel Core i5 Processor, 8GB RAM, and 512GB SSD",799.99,599.99,4.2,14"" x 10"" x 1"",Silver,15.6,201,150
+2,Smartphone,"6.5"" Full HD Smartphone with Snapdragon Processor, 128GB Storage, and Quad Camera",699.99,499.99,0.4,6.2"" x 3"" x 0.3"",Black,6.5,202,100
+3,Tablet,"10.2"" Tablet with Retina Display, 64GB Storage, and Apple Pencil Support",499.99,399.99,0.5,9.8"" x 7.5"" x 0.3"",Space Gray,10.2,203,120
+4,Smartwatch,"Waterproof Smartwatch with Heart Rate Monitor, GPS, and Fitness Tracker",199.99,149.99,0.1,1.5"" x 1.5"" x 0.5"",Black,1.3,204,200
+5,Wireless Headphones,"Bluetooth Wireless Headphones with Noise Cancellation and 30-Hour Battery Life",149.99,99.99,0.3,7"" x 6"" x 2"",Black,One Size,205,180
+6,Wireless Mouse,"Ergonomic Wireless Mouse with Silent Click and USB Receiver",29.99,19.99,0.1,4"" x 2.5"" x 1"",Gray,One Size,206,250
+7,External Hard Drive,"2TB Portable External Hard Drive with USB 3.0 Connectivity",79.99,59.99,0.5,4.5"" x 3"" x 0.5"",Black,2TB,207,80
+8,Printer,"Wireless All-in-One Printer with Scanner, Copier, and AirPrint",149.99,129.99,11.5,17"" x 12"" x 6"",White,One Size,208,60
+9,Portable Charger,"20000mAh Portable Charger with Power Delivery and Quick Charge 3.0",49.99,39.99,0.4,5"" x 3"" x 0.8"",Black,One Size,209,150
+10,USB Flash Drive,"128GB USB 3.0 Flash Drive with High-Speed Data Transfer",24.99,14.99,0.02,2"" x 0.8"" x 0.3"",Silver,128GB,210,300
+11,Wireless Keyboard,"Slim Wireless Keyboard with Quiet Typing and Long Battery Life",39.99,29.99,0.5,14"" x 5"" x 0.5"",Black,One Size,206,200
+12,Bluetooth Speaker,"Portable Bluetooth Speaker with 20W Stereo Sound and Built-in Microphone",79.99,49.99,0.8,7"" x 3"" x 3"",Blue,One Size,211,180
+13,Monitor,"27"" Full HD Monitor with IPS Panel and Thin Bezel Design",299.99,249.99,12,24"" x 15"" x 2"",Black,27,212,90
+14,Wireless Router,"Dual-Band Wireless Router with Gigabit Ethernet Ports and MU-MIMO Technology",129.99,99.99,0.5,10"" x 7"" x 2"",Black,One Size,213,120
+15,Smart Thermostat,"Smart Thermostat with Wi-Fi Connectivity and Energy-Saving Features",199.99,159.99,0.3,4"" x 4"" x 1"",White,One Size,214,70
+16,Security Camera,"Indoor/Outdoor Security Camera with 1080p HD Video and Night Vision",149.99,119.99,0.4,5"" x 3"" x 3"",Black,One Size,215,100
+17,Gaming Console,"Next-Gen Gaming Console with 4K Graphics and High-Fidelity Audio",499.99,399.99,8,14"" x 11"" x 3"",Black,One Size,216,50
+18,Electric Toothbrush,"Electric Toothbrush with Sonic Technology and 30-Day Battery Life",59.99,39.99,0.2,9"" x 2"" x 1"",White,One Size,217,150
+19,Bluetooth Earbuds,"Wireless Bluetooth Earbuds with Charging Case and Noise Isolation",99.99,79.99,0.1,3"" x 2"" x 1"",Black,One Size,218,200
+20,Robot Vacuum,"Smart Robot Vacuum Cleaner with Mapping Technology and Self-Charging",299.99,249.99,7,13"" x 13"" x 3"",White,One Size,219,80
+21,Wireless Earphones,"Bluetooth Wireless Earphones with Waterproof Design and Noise Cancellation",79.99,59.99,0.05,2"" x 1"" x 0.5"",White,One Size,220,150
+22,Smart TV,"55"" 4K Ultra HD Smart TV with HDR and Voice Control",999.99,799.99,35,48"" x 30"" x 5"",Black,55,221,60
+23,Wireless Speaker,"Portable Wireless Speaker with 360-Degree Sound and Built-in Battery",129.99,99.99,0.6,6"" x 4"" x 4"",Red,One Size,211,100
+24,Bluetooth Headset,"Wireless Bluetooth Headset with Noise-Canceling Microphone",49.99,39.99,0.1,2"" x 1.5"" x 0.5"",Black,One Size,205,200
+25,Smart Plug,"Wi-Fi Enabled Smart Plug for Voice Control and Remote Access",19.99,14.99,0.1,3"" x 2"" x 1"",White,One Size,222,300
+26,Wireless Keyboard and Mouse Set,"Wireless Keyboard and Mouse Combo with USB Receiver",59.99,49.99,1,18"" x 6"" x 1"",Black,One Size,206,150
+27,Bluetooth Car Kit,"Hands-Free Bluetooth Car Kit with FM Transmitter and Dual USB Ports",39.99,29.99,0.1,4"" x 3"" x 1"",Black,One Size,223,250
+28,External SSD,"1TB Portable External SSD with USB 3.1 Gen 2 Interface",199.99,159.99,0.1,3"" x 2"" x 0.5"",Silver,1TB,207,120
+29,Wireless Charging Pad,"Wireless Charging Pad for Qi-Enabled Devices",29.99,19.99,0.2,4"" x 4"" x 0.3"",Black,One Size,224,180
+30,Bluetooth FM Transmitter,"Bluetooth FM Transmitter with Dual USB Ports and Hands-Free Calling",24.99,14.99,0.1,3"" x 2"" x 1"",Black,One Size,223,200
+31,Smart Doorbell,"Wi-Fi Enabled Smart Doorbell with HD Video and Two-Way Audio",149.99,119.99,0.2,5"" x 3"" x 1"",Silver,One Size,215,80
+32,Wireless Charging Stand,"Wireless Charging Stand for Smartphones and Smartwatches",49.99,39.99,0.3,4"" x 3"" x 1"",Black,One Size,224,150
+33,Bluetooth Gamepad,"Wireless Bluetooth Gamepad for Mobile Phones and Tablets",39.99,29.99,0.2,6"" x 4"" x 1"",Black,One Size,216,200
+34,USB-C Hub,"USB-C Hub with 4K HDMI, USB 3.0 Ports, and SD Card Reader",49.99,39.99,0.1,3"" x 2"" x 0.5"",Silver,One Size,213,250
+35,Smart Scale,"Bluetooth Smart Scale with Body Composition Analysis and App Integration",69.99,49.99,2,12"" x 12"" x 1"",White,One Size,225,150
+36,Wireless Gaming Mouse,"RGB Wireless Gaming Mouse with Adjustable DPI and Programmable Buttons",59.99,49.99,0.2,5"" x 3"" x 1"",Black,One Size,206,180
+37,USB-C Docking Station,"USB-C Docking Station with HDMI, USB 3.0 Ports, and Ethernet",89.99,69.99,0.3,5"" x 3"" x 1"",Black,One Size,213,120
+38,Bluetooth Beanie,"Bluetooth Beanie with Built-in Wireless Headphones",39.99,29.99,0.2,8"" x 8"" x 1"",Gray,One Size,227,200
+39,Portable Bluetooth Keyboard,"Foldable Portable Bluetooth Keyboard for Smartphones and Tablets",49.99,39.99,0.3,9"" x 4"" x 0.5"",Black,One Size,206,250
+40,Smart Light Bulb,"Wi-Fi Enabled Smart Light Bulb with Dimmable White and Color Changing Options",29.99,19.99,0.2,4"" x 2"" x 2"",White,One Size,228,150
+41,Wireless Charging Dock,"Wireless Charging Dock for iPhone and Apple Watch",49.99,39.99,0.3,6"" x 4"" x 1"",Silver,One Size,224,200
+42,Bluetooth FM Transmitter,"Bluetooth FM Transmitter with Dual USB Ports and Car Voltage Display",29.99,19.99,0.1,3"" x 2"" x 1"",Black,One Size,223,180
+43,Smart Door Lock,"Keyless Entry Smart Door Lock with Touchscreen and App Control",149.99,119.99,0.5,7"" x 3"" x 1"",Black,One Size,215,120
+44,USB-C Power Adapter,"65W USB-C Power Adapter with Power Delivery and GaN Technology",59.99,49.99,0.2,3"" x 2"" x 1"",White,One Size,229,100
+45,Bluetooth Shower Speaker,"Waterproof Bluetooth Shower Speaker with Built-in Mic and Suction Cup",19.99,14.99,0.2,3"" x 3"" x 1"",Blue,One Size,211,150
+46,Wireless Presenter,"Wireless Presenter with Laser Pointer and USB Receiver",29.99,19.99,0.1,4"" x 1"" x 1"",Black,One Size,230,200
+47,Smart Wi-Fi Plug,"Smart Wi-Fi Plug with Energy Monitoring and Voice Control",24.99,14.99,0.1,3"" x 2"" x 1"",White,One Size,222,250
+48,Bluetooth FM Transmitter,"Bluetooth FM Transmitter with Dual USB Ports and Car Battery Voltage Display",34.99,24.99,0.1,3"" x 2"" x 1"",Black,One Size,223,180
+49,Wireless Charging Car Mount,"Wireless Charging Car Mount with Auto Clamping and Air Vent Holder",39.99,29.99,0.3,5"" x 3"" x 1"",Black,One Size,231,200
+50,Smart Wi-Fi Bulb,"Wi-Fi Enabled Smart Bulb with Dimmable White and Color Changing Options",19.99,14.99,0.1,4"" x 2"" x 2"",White,One Size,228,250
+51,Bluetooth Beanie,"Bluetooth Beanie with Built-in Wireless Headphones and Hands-Free Calling",39.99,29.99,0.2,8"" x 8"" x 1"",Black,One Size,227,150
+52,USB-C to HDMI Adapter,"USB-C to HDMI Adapter with 4K Resolution Support",19.99,14.99,0.1,2"" x 1"" x 0.5"",Silver,One Size,213,200
+53,Smart Door Sensor,"Smart Door Sensor with Real-Time Alerts and App Notifications",19.99,14.99,0.05,2"" x 1"" x 0.5"",White,One Size,232,250
+54,Bluetooth Karaoke Microphone,"Wireless Bluetooth Karaoke Microphone with Built-in Speaker and LED Lights",49.99,39.99,0.3,10"" x 3"" x 3"",Rose Gold,One Size,211,180
+55,USB-C Charging Cable,"USB-C Charging Cable with Fast Charging Support, 6ft",14.99,9.99,0.1,6"" x 4"" x 0.5"",Black,6ft,233,300
+56,Wireless Charging Mouse Pad,"Wireless Charging Mouse Pad with RGB Lighting and Built-in Charger",39.99,29.99,0.5,12"" x 10"" x 1"",Black,One Size,206,120
+57,Smart Ceiling Fan,"Smart Ceiling Fan with Wi-Fi Connectivity and Voice Control",249.99,199.99,12,52"" x 52"" x 12"",White,52,234,70
+58,Bluetooth FM Transmitter,"Bluetooth FM Transmitter with Dual USB Ports and Car Voltage Detection",24.99,14.99,0.1,3"" x 2"" x 1"",Black,One Size,223,100
+59,Smart Wi-Fi Camera,"Indoor Smart Wi-Fi Camera with 1080p HD Video and Two-Way Audio",79.99,59.99,0.2,4"" x 3"" x 3"",White,One Size,235,150
+60,Wireless Charging Mouse,"Wireless Charging Mouse with RGB Lighting and Adjustable DPI",49.99,39.99,0.2,4"" x 2"" x 1"",Black,One Size,206,200
+61,Bluetooth Earbuds,"True Wireless Bluetooth Earbuds with Charging Case and Noise Cancellation",99.99,79.99,0.1,2"" x 2"" x 1"",Black,One Size,220,250
+62,Smart Thermostat,"Wi-Fi Enabled Smart Thermostat with Energy-Saving Features",149.99,119.99,0.3,4"" x 4"" x 1"",Silver,One Size,236,180
+63,USB-C Wall Charger,"USB-C Wall Charger with Power Delivery and Quick Charge 3.0",29.99,19.99,0.15,2"" x 2"" x 1"",Black,One Size,229,200
+64,Wireless Gaming Controller,"Wireless Gaming Controller for PC and Android Devices",59.99,49.99,0.3,6"" x 4"" x 2"",Black,One Size,216,250
+65,Bluetooth Neckband Headphones,"Bluetooth Neckband Headphones with Magnetic Earbuds and Noise Isolation",39.99,29.99,0.2,7"" x 6"" x 1"",Black,One Size,220,300
+66,Smart Wi-Fi Outlet,"Smart Wi-Fi Outlet with Energy Monitoring and Voice Control",19.99,14.99,0.1,3"" x 2"" x 1"",White,One Size,222,200
+67,Wireless Charging Car Mount,"Wireless Charging Car Mount with Auto Clamping and Dashboard/Windshield Holder",49.99,39.99,0.3,5"" x 3"" x 1"",Black,One Size,231,150
+68,Bluetooth Shower Speaker,"Waterproof Bluetooth Shower Speaker with Built-in Mic and LED Light",24.99,19.99,0.2,3"" x 3"" x 1"",Black,One Size,211,200
+69,USB-C Hub,"USB-C Hub with 4K HDMI, USB 3.0 Ports, and SD/MicroSD Card Reader",39.99,29.99,0.1,3"" x 2"" x 0.5"",Silver,One Size,213,250
+70,Smart Light Strip,"Wi-Fi Enabled Smart Light Strip with Color Changing and Dimmable LEDs",39.99,29.99,0.3,6"" x 6"" x 1"",RGB,16.4ft,237,180
+71,Wireless Earbuds,"True Wireless Earbuds with Charging Case and Noise Cancellation",79.99,59.99,0.1,2"" x 2"" x 1"",Black,One Size,220,150
+72,Smart Wi-Fi Speaker,"Portable Smart Wi-Fi Speaker with Voice Control and Multi-Room Functionality",129.99,99.99,0.5,5"" x 4"" x 4"",Black,One Size,238,200
+73,USB-C to HDMI Cable,"USB-C to HDMI Cable with 4K Resolution Support, 6ft",19.99,14.99,0.2,6"" x 4"" x 0.5"",Black,6ft,233,250
+74,Bluetooth FM Transmitter,"Bluetooth FM Transmitter with Dual USB Ports and Car Voltage Monitor",29.99,19.99,0.1,3"" x 2"" x 1"",Black,One Size,223,200
+75,Smart Wi-Fi Plug,"Smart Wi-Fi Plug with Energy Monitoring and Voice Control (2-Pack)",39.99,29.99,0.1,3"" x 2"" x 1"",White,One Size,222,180 

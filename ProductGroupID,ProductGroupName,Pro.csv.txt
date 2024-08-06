@@ -1,0 +1,76 @@
+ProductGroupID,ProductGroupName,ProductGroupDescription,ProductCategory,ProductSubCategory,GroupManager,GroupCreationDate,GroupStatus,NumberOfProducts,GroupBudget
+1,Laptops,High-performance and portable computers,Electronics,Computing,John Doe,2022-01-15,Active,50,500000
+2,Smartphones,Latest models with advanced features,Electronics,Mobile Devices,Jane Smith,2021-11-10,Active,80,400000
+3,Tablets,Portable touch-screen devices,Electronics,Mobile Devices,Emily Johnson,2020-05-22,Active,40,250000
+4,Smartwatches,Advanced wearable technology,Electronics,Wearables,Michael Brown,2019-08-13,Active,30,150000
+5,Headphones,High-quality audio devices,Electronics,Audio,Chris Wilson,2021-02-19,Active,60,200000
+6,Computer Accessories,Peripherals for computers and laptops,Electronics,Computing,Patricia Taylor,2018-07-25,Active,70,100000
+7,Storage Devices,External and internal storage solutions,Electronics,Computing,Andrew Moore,2017-03-12,Active,35,120000
+8,Printers,Printing and scanning devices,Electronics,Office Equipment,Linda Martinez,2020-11-01,Active,20,90000
+9,Chargers,Portable charging solutions,Electronics,Accessories,Kevin Lee,2019-12-30,Active,40,80000
+10,USB Devices,High-speed USB storage and peripherals,Electronics,Accessories,Susan White,2021-04-17,Active,50,60000
+11,Speakers,Portable and home audio solutions,Electronics,Audio,David Harris,2022-06-05,Active,25,150000
+12,Monitors,High-resolution computer displays,Electronics,Computing,Daniel Clark,2020-09-18,Active,45,350000
+13,Networking Equipment,High-speed networking devices,Electronics,Networking,Nancy Lewis,2021-03-14,Active,30,220000
+14,Smart Home Devices,Connected home automation devices,Electronics,Home Automation,George Walker,2018-10-22,Active,20,300000
+15,Security Systems,Advanced security and surveillance devices,Electronics,Home Security,Betty Young,2019-05-11,Active,25,180000
+16,Gaming Consoles,Latest gaming hardware,Electronics,Entertainment,Matthew King,2020-02-09,Active,15,450000
+17,Health & Fitness Devices,Tech for health monitoring,Electronics,Fitness,Elizabeth Scott,2021-07-21,Active,30,130000
+18,Earbuds,Compact and wireless audio devices,Electronics,Audio,Paul Green,2022-08-16,Active,40,110000
+19,Home Appliances,Smart and connected home appliances,Electronics,Home Appliances,Jessica Adams,2019-11-29,Active,10,500000
+20,Camera Equipment,Digital and video cameras,Electronics,Photography,Thomas Baker,2021-05-25,Active,20,250000
+21,Smart Speakers,Voice-controlled smart speakers,Electronics,Audio,Michelle Thompson,2023-02-28,Active,25,180000
+22,External Hard Drives,Portable storage for data backup,Electronics,Computing,Richard Davis,2022-09-10,Active,30,150000
+23,Wireless Keyboards,Bluetooth-enabled computer keyboards,Electronics,Computing,Emma Wilson,2023-04-05,Active,40,200000
+24,Action Cameras,Compact and rugged cameras for action shots,Electronics,Photography,Christopher Moore,2022-12-15,Active,35,250000
+25,Smart Thermostats,Energy-efficient home temperature control,Electronics,Home Automation,Megan Adams,2023-01-20,Active,20,120000
+26,Virtual Reality Headsets,Immersive VR experiences,Electronics,Virtual Reality,William Turner,2022-11-05,Active,30,300000
+27,Smart Lighting,Connected and automated home lighting,Electronics,Home Automation,Ava Cooper,2023-03-12,Active,40,180000
+28,Wireless Earphones,Compact and wireless audio devices,Electronics,Audio,Noah Walker,2023-05-01,Active,50,220000
+29,Gaming Accessories,Peripherals and accessories for gaming,Electronics,Entertainment,Ella Scott,2022-10-18,Active,40,200000
+30,Home Security Cameras,Surveillance cameras for home protection,Electronics,Home Security,Oliver Baker,2023-06-08,Active,30,250000
+31,Smart Watches,Advanced wearable devices with smart features,Electronics,Wearables,Charlotte Adams,2022-07-25,Active,50,300000
+32,Drones,Remote-controlled aerial devices,Electronics,Gadgets,Liam Wilson,2023-03-28,Active,25,180000
+33,Outdoor Speakers,Weather-resistant speakers for outdoor use,Electronics,Audio,Sophia Moore,2022-06-15,Active,20,150000
+34,Wireless Routers,High-speed wireless internet routers,Electronics,Networking,James Turner,2023-01-05,Active,30,200000
+35,Smart Plugs,Wirelessly controlled electrical outlets,Electronics,Home Automation,Amelia Davis,2022-09-30,Active,40,150000
+36,Bluetooth Speakers,Portable speakers with wireless connectivity,Electronics,Audio,Henry Thompson,2023-04-17,Active,50,250000
+37,Graphic Cards,High-performance graphics processing units,Electronics,Computing,Avery Wilson,2022-12-03,Active,30,300000
+38,Smart Locks,Keyless entry systems for enhanced security,Electronics,Home Security,Samantha Moore,2023-02-10,Active,25,180000
+39,Wireless Mice,Bluetooth-enabled computer mice,Electronics,Computing,Owen Cooper,2022-11-12,Active,40,200000
+40,Smart TVs,Internet-connected televisions,Electronics,Home Entertainment,Emily Baker,2023-05-25,Active,50,350000
+41,Wireless Headsets,Bluetooth headphones for hands-free communication,Electronics,Audio,Maxwell Adams,2022-10-05,Active,30,200000
+42,Smartwatches for Kids,Smartwatches with kid-friendly features,Electronics,Wearables,Harper Wilson,2023-03-18,Active,20,150000
+43,Smart Scales,Connected weight and body composition scales,Electronics,Health & Fitness,Liam Davis,2022-06-30,Active,30,200000
+44,Car Accessories,Technological accessories for automobiles,Electronics,Automotive,Mia Turner,2023-01-15,Active,40,250000
+45,Portable Projectors,Compact projectors for on-the-go presentations,Electronics,Projection,Olivia Baker,2022-09-08,Active,25,180000
+46,Smart Home Hubs,Central control units for smart home devices,Electronics,Home Automation,Ethan Thompson,2023-04-25,Active,35,300000
+47,Wireless Chargers,Convenient wireless charging solutions,Electronics,Accessories,Isabella Moore,2022-12-20,Active,40,180000
+48,Power Banks,Portable external batteries for charging devices,Electronics,Accessories,Lucas Wilson,2023-02-12,Active,50,220000
+49,Smart Pet Accessories,Technological products for pets,Electronics,Pet Supplies,Ava Davis,2022-07-28,Active,40,200000
+50,Wireless Security Systems,Wireless security and surveillance solutions,Electronics,Home Security,Elijah Cooper,2023-06-10,Active,30,250000
+51,Smart Kitchen Appliances,Connected appliances for smart kitchens,Electronics,Home Appliances,Sophia Adams,2022-08-25,Active,50,300000
+52,Fitness Trackers,Activity monitoring devices for fitness tracking,Electronics,Health & Fitness,Noah Baker,2023-03-30,Active,25,180000
+53,Bluetooth Key Finders,Wireless devices to locate lost keys,Electronics,Accessories,Lily Turner,2022-06-17,Active,20,150000
+54,Smart Doorbells,Video doorbells with smart features,Electronics,Home Security,Ella Moore,2023-01-07,Active,30,200000
+55,Smart Refrigerators,Connected refrigerators with advanced features,Electronics,Home Appliances,James Thompson,2022-09-30,Active,40,150000
+56,Wireless Speakers,Portable speakers with wireless connectivity,Electronics,Audio,Aiden Davis,2023-04-20,Active,50,250000
+57,Computer Software,Software applications for computer systems,Electronics,Computing,Abigail Wilson,2022-12-08,Active,30,300000
+58,Smart Bathroom Scales,Connected scales for monitoring health metrics,Electronics,Health & Fitness,Alexander Cooper,2023-02-15,Active,25,180000
+59,Car Audio Systems,Audio systems for vehicles,Electronics,Car Audio,Emily Turner,2022-07-31,Active,40,200000
+60,Home Automation Kits,Starter kits for home automation,Electronics,Home Automation,Ethan Baker,2023-06-15,Active,50,350000
+61,Wireless Security Cameras,Wireless surveillance cameras for enhanced security,Electronics,Home Security,Charlotte Moore,2022-08-12,Active,30,250000
+62,Smart Garden Devices,Connected devices for automated gardening,Electronics,Home Automation,Logan Thompson,2023-03-05,Active,25,180000
+63,Bluetooth Car Kits,Hands-free communication devices for vehicles,Electronics,Car Accessories,Grace Cooper,2022-06-22,Active,20,150000
+64,Smart Bathroom Devices,Connected devices for smart bathrooms,Electronics,Home Automation,Asher Davis,2023-01-10,Active,35,300000
+65,Wireless Gaming Headsets,Wireless headsets for gaming,Electronics,Gaming Accessories,Luna Wilson,2022-09-03,Active,40,180000
+66,Smart Security Systems,Advanced security systems for homes and businesses,Electronics,Home Security,Leo Turner,2023-04-28,Active,50,220000
+67,Smartwatches for Seniors,Smartwatches with features tailored for seniors,Electronics,Wearables,Scarlett Moore,2022-12-25,Active,40,200000
+68,Portable Bluetooth Keyboards,Compact and wireless keyboards for mobile devices,Electronics,Computing,Liam Baker,2023-02-18,Active,30,250000
+69,Smart Garage Door Openers,Wireless and automated garage door openers,Electronics,Home Automation,Sophie Thompson,2022-08-08,Active,50,300000
+70,Wireless Gaming Mice,Wireless mice for gaming,Electronics,Gaming Accessories,Henry Cooper,2023-06-20,Active,25,180000
+71,Smart Health Devices,Connected devices for health monitoring,Electronics,Health & Fitness,Oliver Davis,2022-07-05,Active,20,150000
+72,Smart Car Accessories,Technological accessories for automobiles,Electronics,Car Accessories,Aria Wilson,2023-01-15,Active,30,200000
+73,Wireless Home Theater Systems,Wireless audio systems for home entertainment,Electronics,Home Entertainment,Harper Baker,2022-09-08,Active,35,300000
+74,Smart Bike Accessories,Technological accessories for bicycles,Electronics,Cycling,Max Turner,2023-04-30,Active,40,180000
+75,Wireless Gaming Controllers,Wireless controllers for gaming consoles,Electronics,Gaming Accessories,Nova Moore,2022-12-20,Active,50,220000

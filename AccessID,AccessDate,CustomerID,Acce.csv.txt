@@ -1,0 +1,201 @@
+AccessID,AccessDate,CustomerID,AccessCategory,PageViewed,Duration,DeviceType,BrowserType,ReferrerURL,Geolocation,InteractionType
+1,2023-01-15,101,Product Page,Laptop,300,Desktop,Chrome,www.google.com,USA,Click
+2,2023-01-16,102,Checkout,Smartphone,180,Mobile,Safari,www.example.com,Canada,Purchase
+3,2023-01-17,103,Homepage,Tablet,120,Tablet,Firefox,www.bing.com,UK,Click
+4,2023-01-18,104,Product Page,Smartwatch,240,Desktop,Edge,www.yahoo.com,Australia,Click
+5,2023-01-19,105,Support Page,Headphones,180,Mobile,Chrome,www.google.com,India,Click
+6,2023-01-20,106,Product Page,Mouse,300,Desktop,Chrome,www.example.com,USA,Click
+7,2023-01-21,107,Cart,Hard Drive,150,Tablet,Safari,www.bing.com,Canada,Add to Cart
+8,2023-01-22,108,Product Page,Printer,210,Mobile,Firefox,www.yahoo.com,UK,Click
+9,2023-01-23,109,Checkout,Charger,180,Desktop,Edge,www.google.com,Australia,Purchase
+10,2023-01-24,110,Homepage,USB Drive,120,Mobile,Chrome,www.example.com,India,Click
+11,2023-01-25,101,Product Page,Keyboard,300,Tablet,Safari,www.bing.com,USA,Click
+12,2023-01-26,102,Support Page,Speaker,180,Desktop,Firefox,www.yahoo.com,Canada,Click
+13,2023-01-27,103,Product Page,Monitor,240,Mobile,Edge,www.google.com,UK,Click
+14,2023-01-28,104,Cart,Router,150,Desktop,Chrome,www.example.com,Australia,Add to Cart
+15,2023-01-29,105,Product Page,Thermostat,210,Mobile,Safari,www.bing.com,India,Click
+16,2023-01-30,106,Checkout,Security Camera,180,Tablet,Firefox,www.yahoo.com,USA,Purchase
+17,2023-01-31,107,Homepage,Gaming Console,120,Desktop,Edge,www.google.com,Canada,Click
+18,2023-02-01,108,Product Page,Electric Toothbrush,300,Mobile,Chrome,www.example.com,UK,Click
+19,2023-02-02,109,Support Page,Wireless Earbuds,180,Desktop,Safari,www.bing.com,Australia,Click
+20,2023-02-03,110,Product Page,Robot Vacuum,240,Mobile,Firefox,www.yahoo.com,India,Click
+21,2023-02-13,106,Cart,Gaming Mouse,150,Desktop,Chrome,www.example.com,USA,Add to Cart
+22,2023-02-14,107,Product Page,Fitness Tracker,210,Mobile,Safari,www.bing.com,Canada,Click
+23,2023-02-15,108,Checkout,Smart TV,180,Mobile,Firefox,www.yahoo.com,UK,Purchase
+24,2023-02-16,109,Homepage,Bluetooth Speaker,120,Tablet,Chrome,www.google.com,India,Click
+25,2023-02-17,110,Product Page,Wireless Mouse,240,Desktop,Edge,www.example.com,Australia,Click
+26,2023-02-18,101,Cart,External Hard Drive,180,Mobile,Safari,www.bing.com,USA,Add to Cart
+27,2023-02-19,102,Product Page,Bluetooth Headphones,300,Tablet,Firefox,www.yahoo.com,Canada,Click
+28,2023-02-20,103,Support Page,Printer Ink Cartridges,150,Desktop,Chrome,www.google.com,UK,Click
+29,2023-02-21,104,Product Page,Smart Thermostat,210,Mobile,Safari,www.example.com,India,Click
+30,2023-02-22,105,Checkout,Digital Camera,180,Desktop,Edge,www.bing.com,Australia,Purchase
+31,2023-02-23,106,Homepage,Wireless Keyboard,120,Mobile,Chrome,www.yahoo.com,USA,Click
+32,2023-02-24,107,Product Page,USB Flash Drive,300,Tablet,Safari,www.google.com,Canada,Click
+33,2023-02-25,108,Cart,Tablet Stand,150,Desktop,Firefox,www.example.com,UK,Add to Cart
+34,2023-02-26,109,Product Page,Bluetooth Earbuds,240,Mobile,Chrome,www.bing.com,India,Click
+35,2023-02-27,110,Checkout,Smart Doorbell,180,Tablet,Safari,www.yahoo.com,USA,Purchase
+36,2023-02-28,101,Homepage,Wireless Router,120,Desktop,Edge,www.google.com,Canada,Click
+37,2023-03-01,102,Product Page,Smart Scale,300,Mobile,Firefox,www.example.com,UK,Click
+38,2023-03-02,103,Support Page,USB-C Cable,150,Desktop,Chrome,www.bing.com,Australia,Click
+39,2023-03-03,104,Product Page,Wireless Charger,210,Mobile,Safari,www.yahoo.com,India,Click
+40,2023-03-04,105,Cart,Portable Bluetooth Speaker,180,Tablet,Firefox,www.google.com,USA,Add to Cart
+41,2023-03-05,106,Product Page,Wireless Gaming Headset,240,Desktop,Edge,www.example.com,Canada,Click
+42,2023-03-06,107,Checkout,Smartwatch,180,Mobile,Safari,www.bing.com,Canada,Purchase
+43,2023-03-07,108,Homepage,Laptop Stand,120,Tablet,Firefox,www.yahoo.com,UK,Click
+44,2023-03-08,109,Product Page,Wireless Keyboard and Mouse Combo,240,Mobile,Chrome,www.google.com,India,Click
+45,2023-03-09,110,Support Page,External SSD,150,Desktop,Edge,www.example.com,Australia,Click
+46,2023-03-10,101,Product Page,Wireless Earphones,300,Tablet,Safari,www.bing.com,USA,Click
+47,2023-03-11,102,Cart,Bluetooth Car Kit,180,Mobile,Firefox,www.yahoo.com,Canada,Add to Cart
+48,2023-03-12,103,Product Page,Smart Home Security System,210,Mobile,Safari,www.google.com,UK,Click
+49,2023-03-13,104,Checkout,Portable Monitor,180,Desktop,Chrome,www.example.com,Australia,Purchase
+50,2023-03-14,105,Homepage,Bluetooth Mouse,120,Mobile,Edge,www.bing.com,India,Click
+51,2023-03-15,106,Product Page,Smart LED Bulbs,300,Desktop,Firefox,www.yahoo.com,USA,Click
+52,2023-03-16,107,Support Page,Wireless Printer,150,Tablet,Safari,www.google.com,Canada,Click
+53,2023-03-17,108,Product Page,Power Bank,240,Mobile,Chrome,www.example.com,UK,Click
+54,2023-03-18,109,Cart,Smart Lock,180,Desktop,Edge,www.bing.com,Australia,Add to Cart
+55,2023-03-19,110,Product Page,Bluetooth Gaming Controller,300,Mobile,Safari,www.yahoo.com,India,Click
+56,2023-03-20,101,Checkout,Wireless HDMI Adapter,180,Tablet,Firefox,www.google.com,USA,Purchase
+57,2023-03-21,102,Homepage,Wireless Barcode Scanner,120,Desktop,Chrome,www.example.com,Canada,Click
+58,2023-03-22,103,Product Page,Smart Plug,240,Mobile,Safari,www.bing.com,UK,Click
+59,2023-03-23,104,Support Page,External Hard Drive Enclosure,150,Desktop,Edge,www.yahoo.com,Australia,Click
+60,2023-03-24,105,Product Page,Wireless Presenter,210,Mobile,Firefox,www.google.com,India,Click
+61,2023-03-25,106,Cart,Wireless Gaming Mouse,180,Tablet,Safari,www.example.com,USA,Add to Cart
+62,2023-03-26,107,Product Page,Smart Water Bottle,300,Desktop,Chrome,www.bing.com,Canada,Click
+63,2023-03-27,108,Checkout,Wireless Bluetooth Headset,180,Mobile,Safari,www.bing.com,UK,Purchase
+64,2023-03-28,109,Homepage,Smart Home Hub,120,Tablet,Firefox,www.yahoo.com,India,Click
+65,2023-03-29,110,Product Page,Wireless Webcam,240,Mobile,Chrome,www.google.com,Australia,Click
+66,2023-03-30,101,Support Page,External DVD Drive,150,Desktop,Edge,www.example.com,USA,Click
+67,2023-03-31,102,Product Page,Bluetooth Trackpad,300,Tablet,Safari,www.bing.com,Canada,Click
+68,2023-04-01,103,Cart,Wireless Gaming Keyboard,180,Mobile,Firefox,www.yahoo.com,UK,Add to Cart
+69,2023-04-02,104,Product Page,Smart Mirror,210,Mobile,Safari,www.google.com,Australia,Click
+70,2023-04-03,105,Checkout,Bluetooth Speaker with Alexa,180,Desktop,Chrome,www.example.com,India,Purchase
+71,2023-04-04,106,Homepage,Wireless Earbuds with Charging Case,120,Mobile,Edge,www.bing.com,USA,Click
+72,2023-04-05,107,Product Page,Bluetooth Soundbar,300,Tablet,Firefox,www.yahoo.com,Canada,Click
+73,2023-04-06,108,Support Page,Wireless HDMI Cable,150,Desktop,Chrome,www.google.com,UK,Click
+74,2023-04-07,109,Product Page,Bluetooth Car Speakerphone,240,Mobile,Safari,www.bing.com,India,Click
+75,2023-04-08,110,Cart,Smart Garage Door Opener,180,Tablet,Firefox,www.yahoo.com,Australia,Add to Cart
+76,2023-04-09,101,Product Page,Wireless Presentation Remote,300,Mobile,Safari,www.google.com,USA,Click
+77,2023-04-10,102,Checkout,Smart Wi-Fi Router,180,Desktop,Chrome,www.example.com,Canada,Purchase
+78,2023-04-11,103,Homepage,Wireless Keyboard and Mouse Combo,120,Mobile,Edge,www.bing.com,UK,Click
+79,2023-04-12,104,Product Page,Bluetooth Noise Cancelling Headphones,240,Mobile,Firefox,www.yahoo.com,Australia,Click
+80,2023-04-13,105,Support Page,Smart Home Security Camera,150,Desktop,Chrome,www.google.com,India,Click
+81,2023-04-14,106,Product Page,Wireless Charging Pad,210,Mobile,Safari,www.example.com,USA,Click
+82,2023-04-15,107,Cart,Bluetooth FM Transmitter,180,Tablet,Firefox,www.bing.com,Canada,Add to Cart
+83,2023-04-16,108,Product Page,Wireless Mouse,240,Desktop,Chrome,www.example.com,USA,Click
+84,2023-04-17,109,Checkout,Smart TV,180,Mobile,Safari,www.example.com,USA,Purchase
+85,2023-04-18,110,Homepage,Bluetooth Headphones,120,Tablet,Firefox,www.example.com,USA,Click
+86,2023-04-19,101,Support Page,External Hard Drive,150,Desktop,Edge,www.example.com,USA,Click
+87,2023-04-20,102,Product Page,Wireless Keyboard,300,Mobile,Safari,www.example.com,USA,Click
+88,2023-04-21,103,Cart,Smartwatch,180,Tablet,Firefox,www.example.com,USA,Add to Cart
+89,2023-04-22,104,Product Page,Bluetooth Speaker,210,Mobile,Safari,www.example.com,USA,Click
+90,2023-04-23,105,Checkout,Wireless Earphones,180,Desktop,Chrome,www.example.com,USA,Purchase
+91,2023-04-24,106,Homepage,Smart Home Security System,120,Mobile,Edge,www.example.com,USA,Click
+92,2023-04-25,107,Product Page,Wireless Charger,300,Tablet,Firefox,www.example.com,USA,Click
+93,2023-04-26,108,Support Page,External Monitor,150,Desktop,Chrome,www.example.com,USA,Click
+94,2023-04-27,109,Product Page,Bluetooth Car Kit,240,Mobile,Safari,www.example.com,USA,Click
+95,2023-04-28,110,Cart,Smart Thermostat,180,Tablet,Firefox,www.example.com,USA,Add to Cart
+96,2023-04-29,101,Product Page,Wireless Gaming Mouse,300,Mobile,Safari,www.example.com,USA,Click
+97,2023-04-30,102,Checkout,Smart Doorbell,180,Desktop,Chrome,www.example.com,USA,Purchase
+98,2023-05-01,103,Homepage,Wireless Printer,120,Mobile,Edge,www.example.com,USA,Click
+99,2023-05-02,104,Product Page,Bluetooth Earbuds,240,Mobile,Firefox,www.example.com,USA,Click
+100,2023-05-03,105,Support Page,External Keyboard,150,Desktop,Chrome,www.example.com,USA,Click
+101,2023-05-04,106,Product Page,Wireless Security Camera,300,Tablet,Safari,www.example.com,USA,Click
+102,2023-05-05,107,Cart,Smart Lighting Kit,180,Mobile,Firefox,www.example.com,USA,Add to Cart
+103,2023-05-06,108,Product Page,Wireless Bluetooth Headset,240,Desktop,Chrome,www.example.com,USA,Click
+104,2023-05-07,109,Checkout,Smart Home Hub,180,Mobile,Safari,www.example.com,USA,Purchase
+105,2023-05-08,110,Homepage,Bluetooth Speaker,120,Tablet,Firefox,www.example.com,USA,Click
+106,2023-05-09,101,Support Page,External Hard Drive,150,Desktop,Edge,www.example.com,USA,Click
+107,2023-05-10,102,Product Page,Wireless Keyboard,300,Mobile,Safari,www.example.com,USA,Click
+108,2023-05-11,103,Cart,Smartwatch,180,Tablet,Firefox,www.example.com,USA,Add to Cart
+109,2023-05-12,104,Product Page,Bluetooth Headphones,210,Mobile,Safari,www.example.com,USA,Click
+110,2023-05-13,105,Checkout,Wireless Earphones,180,Desktop,Chrome,www.example.com,USA,Purchase
+111,2023-05-14,106,Homepage,Smart Home Security System,120,Mobile,Edge,www.example.com,USA,Click
+112,2023-05-15,107,Product Page,Wireless Charger,300,Tablet,Firefox,www.example.com,USA,Click
+113,2023-05-16,108,Support Page,External Monitor,150,Desktop,Chrome,www.example.com,USA,Click
+114,2023-05-17,109,Product Page,Bluetooth Car Kit,240,Mobile,Safari,www.example.com,USA,Click
+115,2023-05-18,110,Cart,Smart Thermostat,180,Tablet,Firefox,www.example.com,USA,Add to Cart
+116,2023-05-19,101,Product Page,Wireless Gaming Mouse,300,Mobile,Safari,www.example.com,USA,Click
+117,2023-05-20,102,Checkout,Smart Doorbell,180,Desktop,Chrome,www.example.com,USA,Purchase
+118,2023-05-21,103,Homepage,Wireless Printer,120,Mobile,Edge,www.example.com,USA,Click
+119,2023-05-22,104,Product Page,Bluetooth Earbuds,240,Mobile,Firefox,www.example.com,USA,Click
+120,2023-05-23,105,Support Page,External Keyboard,150,Desktop,Chrome,www.example.com,USA,Click
+121,2023-05-24,106,Product Page,Wireless Security Camera,300,Tablet,Safari,www.example.com,USA,Click
+122,2023-05-25,107,Cart,Smart Lighting Kit,180,Mobile,Firefox,www.example.com,USA,Add to Cart
+123,2023-05-26,108,Product Page,Wireless Bluetooth Headset,240,Desktop,Chrome,www.example.com,USA,Click
+124,2023-05-27,109,Checkout,Smart Home Hub,180,Mobile,Safari,www.example.com,USA,Purchase
+125,2023-05-28,110,Homepage,Bluetooth Speaker,120,Tablet,Firefox,www.example.com,USA,Click
+126,2023-05-29,101,Support Page,External Hard Drive,150,Desktop,Edge,www.example.com,USA,Click
+127,2023-05-30,102,Product Page,Wireless Keyboard,300,Mobile,Safari,www.example.com,USA,Click
+128,2023-05-31,103,Cart,Smartwatch,180,Tablet,Firefox,www.example.com,USA,Add to Cart
+129,2023-06-01,104,Product Page,Bluetooth Headphones,210,Mobile,Safari,www.example.com,USA,Click
+130,2023-06-02,105,Checkout,Wireless Earphones,180,Desktop,Chrome,www.example.com,USA,Purchase
+131,2023-06-03,106,Homepage,Smart Home Security System,120,Mobile,Edge,www.example.com,USA,Click
+132,2023-06-04,107,Product Page,Wireless Charger,300,Tablet,Firefox,www.example.com,USA,Click
+133,2023-06-05,108,Support Page,External Monitor,150,Desktop,Chrome,www.example.com,USA,Click
+134,2023-06-06,109,Product Page,Bluetooth Car Kit,240,Mobile,Safari,www.example.com,USA,Click
+135,2023-06-07,110,Cart,Smart Thermostat,180,Tablet,Firefox,www.example.com,USA,Add to Cart
+136,2023-06-08,101,Product Page,Wireless Gaming Mouse,300,Mobile,Safari,www.example.com,USA,Click
+137,2023-06-09,102,Checkout,Smart Doorbell,180,Desktop,Chrome,www.example.com,USA,Purchase
+138,2023-06-10,103,Homepage,Wireless Printer,120,Mobile,Edge,www.example.com,USA,Click
+139,2023-06-11,104,Product Page,Bluetooth Earbuds,240,Mobile,Firefox,www.example.com,USA,Click
+140,2023-06-12,105,Support Page,External Keyboard,150,Desktop,Chrome,www.example.com,USA,Click
+141,2023-06-13,106,Product Page,Wireless Security Camera,300,Tablet,Safari,www.example.com,USA,Click
+142,2023-06-14,107,Cart,Smart Lighting Kit,180,Mobile,Firefox,www.example.com,USA,Add to Cart
+143,2023-06-15,108,Product Page,Wireless Bluetooth Headset,240,Desktop,Chrome,www.example.com,USA,Click
+144,2023-06-16,109,Checkout,Smart Home Hub,180,Mobile,Safari,www.example.com,USA,Purchase
+145,2023-06-17,110,Homepage,Bluetooth Speaker,120,Tablet,Firefox,www.example.com,USA,Click
+146,2023-06-18,101,Support Page,External Hard Drive,150,Desktop,Edge,www.example.com,USA,Click
+147,2023-06-19,102,Product Page,Wireless Keyboard,300,Mobile,Safari,www.example.com,USA,Click
+148,2023-06-20,103,Cart,Smartwatch,180,Tablet,Firefox,www.example.com,USA,Add to Cart
+149,2023-06-21,104,Product Page,Bluetooth Headphones,210,Mobile,Safari,www.example.com,USA,Click
+150,2023-06-22,105,Checkout,Wireless Earphones,180,Desktop,Chrome,www.example.com,USA,Purchase
+151,2023-06-23,106,Homepage,Smart Home Security System,120,Mobile,Edge,www.example.com,USA,Click
+152,2023-06-24,107,Product Page,Wireless Charger,300,Tablet,Firefox,www.example.com,USA,Click
+153,2023-06-25,108,Support Page,External Monitor,150,Desktop,Chrome,www.example.com,USA,Click
+154,2023-06-26,109,Product Page,Bluetooth Car Kit,240,Mobile,Safari,www.example.com,USA,Click
+155,2023-06-27,110,Cart,Smart Thermostat,180,Tablet,Firefox,www.example.com,USA,Add to Cart
+156,2023-06-28,101,Product Page,Wireless Gaming Mouse,300,Mobile,Safari,www.example.com,USA,Click
+157,2023-06-29,102,Checkout,Smart Doorbell,180,Desktop,Chrome,www.example.com,USA,Purchase
+158,2023-06-30,103,Homepage,Wireless Printer,120,Mobile,Edge,www.example.com,USA,Click
+159,2023-07-01,104,Product Page,Bluetooth Earbuds,240,Mobile,Firefox,www.example.com,USA,Click
+160,2023-07-02,105,Support Page,External Keyboard,150,Desktop,Chrome,www.example.com,USA,Click
+161,2023-07-03,106,Product Page,Wireless Security Camera,300,Tablet,Safari,www.example.com,USA,Click
+162,2023-07-04,107,Cart,Smart Lighting Kit,180,Mobile,Firefox,www.example.com,USA,Add to Cart
+163,2023-07-05,108,Product Page,Wireless Bluetooth Headset,240,Desktop,Chrome,www.example.com,USA,Click
+164,2023-07-06,109,Checkout,Smart Home Hub,180,Mobile,Safari,www.example.com,USA,Purchase
+165,2023-07-07,110,Homepage,Bluetooth Speaker,120,Tablet,Firefox,www.example.com,USA,Click
+166,2023-07-08,101,Support Page,External Hard Drive,150,Desktop,Edge,www.example.com,USA,Click
+167,2023-07-09,102,Product Page,Wireless Keyboard,300,Mobile,Safari,www.example.com,USA,Click
+168,2023-07-10,103,Cart,Smartwatch,180,Tablet,Firefox,www.example.com,USA,Add to Cart
+169,2023-07-11,104,Product Page,Bluetooth Headphones,210,Mobile,Safari,www.example.com,USA,Click
+170,2023-07-12,105,Checkout,Wireless Earphones,180,Desktop,Chrome,www.example.com,USA,Purchase
+171,2023-07-13,106,Homepage,Smart Home Security System,120,Mobile,Edge,www.example.com,USA,Click
+172,2023-07-14,107,Product Page,Wireless Charger,300,Tablet,Firefox,www.example.com,USA,Click
+173,2023-07-15,108,Support Page,External Monitor,150,Desktop,Chrome,www.example.com,USA,Click
+174,2023-07-16,109,Product Page,Bluetooth Car Kit,240,Mobile,Safari,www.example.com,USA,Click
+175,2023-07-17,110,Cart,Smart Thermostat,180,Tablet,Firefox,www.example.com,USA,Add to Cart
+176,2023-07-18,101,Product Page,Wireless Gaming Mouse,300,Mobile,Safari,www.example.com,USA,Click
+177,2023-07-19,102,Checkout,Smart Doorbell,180,Desktop,Chrome,www.example.com,USA,Purchase
+178,2023-07-20,103,Homepage,Wireless Printer,120,Mobile,Edge,www.example.com,USA,Click
+179,2023-07-21,104,Product Page,Bluetooth Earbuds,240,Mobile,Firefox,www.example.com,USA,Click
+180,2023-07-22,105,Support Page,External Keyboard,150,Desktop,Chrome,www.example.com,USA,Click
+181,2023-07-23,106,Product Page,Wireless Security Camera,300,Tablet,Safari,www.example.com,USA,Click
+182,2023-07-24,107,Cart,Smart Lighting Kit,180,Mobile,Firefox,www.example.com,USA,Add to Cart
+183,2023-07-25,108,Product Page,Wireless Bluetooth Headset,240,Desktop,Chrome,www.example.com,USA,Click
+184,2023-07-26,109,Checkout,Smart Home Hub,180,Mobile,Safari,www.example.com,USA,Purchase
+185,2023-07-27,110,Homepage,Bluetooth Speaker,120,Tablet,Firefox,www.example.com,USA,Click
+186,2023-07-28,101,Support Page,External Hard Drive,150,Desktop,Edge,www.example.com,USA,Click
+187,2023-07-29,102,Product Page,Wireless Keyboard,300,Mobile,Safari,www.example.com,USA,Click
+188,2023-07-30,103,Cart,Smartwatch,180,Tablet,Firefox,www.example.com,USA,Add to Cart
+189,2023-07-31,104,Product Page,Bluetooth Headphones,210,Mobile,Safari,www.example.com,USA,Click
+190,2023-08-01,105,Checkout,Wireless Earphones,180,Desktop,Chrome,www.example.com,USA,Purchase
+191,2023-08-02,106,Homepage,Smart Home Security System,120,Mobile,Edge,www.example.com,USA,Click
+192,2023-08-03,107,Product Page,Wireless Charger,300,Tablet,Firefox,www.example.com,USA,Click
+193,2023-08-04,108,Support Page,External Monitor,150,Desktop,Chrome,www.example.com,USA,Click
+194,2023-08-05,109,Product Page,Bluetooth Car Kit,240,Mobile,Safari,www.example.com,USA,Click
+195,2023-08-06,110,Cart,Smart Thermostat,180,Tablet,Firefox,www.example.com,USA,Add to Cart
+196,2023-08-07,101,Product Page,Wireless Gaming Mouse,300,Mobile,Safari,www.example.com,USA,Click
+197,2023-08-08,102,Checkout,Smart Doorbell,180,Desktop,Chrome,www.example.com,USA,Purchase
+198,2023-08-09,103,Homepage,Wireless Printer,120,Mobile,Edge,www.example.com,USA,Click
+199,2023-08-10,104,Product Page,Bluetooth Earbuds,240,Mobile,Firefox,www.example.com,USA,Click
+200,2023-08-11,105,Support Page,External Keyboard,150,Desktop,Chrome,www.example.com,USA,Click
